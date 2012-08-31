@@ -1,7 +1,7 @@
 Meteor Unit Testing Example
 ===========================
 
-This is my first attempt at unit testing Meteor. The code under tested is the default 'hello world' application that is created when you run meteor create.
+This is a quick attempt at unit testing Meteor. The code under tested is the default 'hello world' application that is created when you run meteor create.
 
 Test code is stored under the 'tests' directory, which is a directory that Meteor ignores by convention rather than including it in your production code.
 
